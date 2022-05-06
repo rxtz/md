@@ -26,7 +26,7 @@ Long text | `[(key) action]`
 
 ## Colors
 
-`shell-colors.md`
+[`shell-colors.md`](https://github.com/rxtz/md/blob/main/docs/shell-colors.md)
 
 Color | Meaning | Code
 :-- | :-- | :--
