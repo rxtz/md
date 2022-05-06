@@ -48,9 +48,7 @@ const foo = (bar) => bar.map((e) => e.toLowerCase());
 
 ## Image
 
-<style>img { display: block; margin: 0 auto; max-width: 275px !important; }</style>
-
-![Markdown Mark](markdown-mark.png)
+![0b1](https://raw.githubusercontent.com/rxtz/0b1/main/public/favicon.ico)
 
 ## List
 
