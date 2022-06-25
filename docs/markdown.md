@@ -37,11 +37,22 @@ date: '2021-06-09'
 > Quote
 >> Nested quote
 
+> **Note**
+
+> **Warning**\
+> who tf is this?\
+> paging me at 5:46 in the morning\
+> crack of dawn and now i'm yawning\
+> wipe the cold out my eye\
+> see who's this paging me and why
+
 `Code quote`
 
-```javascript
+```rust
 // Code block
-const foo = (bar) => bar.map((e) => e.toLowerCase());
+fn main() {
+  println!("");
+}
 ```
 
 [Link](#)
