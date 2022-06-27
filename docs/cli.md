@@ -12,8 +12,8 @@ Indentation | 2 spaces
 Text | Format
 :-- | :--
 Placeholder | `<value>`
-Optional | `[flags]`, `[domain \| ip_address]`
-Mutually exclusive | `{abc \| xyz}`
+Optional | `[flags]`, `[<domain> \| <ip_address>]`
+Mutually exclusive | `{start \| stop}`
 Repeatable | `<open_port>...`
 
 ## Prompts
@@ -61,7 +61,7 @@ Bold | Header | `\e[1;37m`
 
 ```cli
 $ cli --help
-<cli_description>
+<description>
 
 USAGE
   cli <command> [subcommand | flags]
@@ -77,8 +77,8 @@ EXAMPLES
 
 LEARN MORE
   Use `cli <command> --help`
-  <cli_url_manual>
+  <manual_url>
 
 FEEDBACK
-  <cli_url_feedback>
+  <feedback_url>
 ```
