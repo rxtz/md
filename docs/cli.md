@@ -31,12 +31,12 @@ Long text | `[(key) action]`
 Color | Meaning | Code
 :-- | :-- | :--
 Reset | - | `\e[0m`
-Black | - | `\e[30m`
+Black | Mute | `\e[30m`
 Red | Error | `\e[31m`
 Green | Success | `\e[32m`
 Yellow | Warning | `\e[33m`
 Blue | Web | `\e[34m`
-Magenta | - | `\e[35m`
+Magenta | Ready | `\e[35m`
 Cyan | Code | `\e[36m`
 White | - | `\e[37m`
 Bold | Header | `\e[1;37m`
